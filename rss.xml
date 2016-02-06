@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kenner Wire and Cable]]></title>
+        <description><![CDATA[Kenner Wire and Cable]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 20:41:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Kenner is a leading distributor of wire, cable, and structured wiring systems. We sell every wire and cable type manufactured, plus a full line of structured cabling products. With just a phone call, you can have any quantity, and any type of wire, cable, and accessories delivered to you on your time schedule.</p>]]></description>
+            <link>undefined481ae21a-8621-427b-82c4-43b3c372e09e/index.html</link>
+            <guid isPermaLink="false">481ae21a-8621-427b-82c4-43b3c372e09e</guid>
+            <pubDate>Sat, 06 Feb 2016 20:41:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
