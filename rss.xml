@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kenner Wire and Cable]]></title>
         <description><![CDATA[Kenner Wire and Cable]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kenner-wire-and-cable/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 20:41:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 20:41:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kenner-wire-and-cable/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Located in Honolulu, Hawaii, Kenner Wire & Cable (KWC) is a distributor of electrical wire and telecommunications cabling and related products. In over 20 years in business, the company has enjoyed success providing services and materials to businesses, government and contractors in Hawaii and Asia.</p></article>]]></description>
+            <link>https://thegrid.ai/kenner-wire-and-cable/about/index.html</link>
+            <guid isPermaLink="false">4fdeef60-8ab0-4c10-af1c-9f468734f009</guid>
+            <pubDate>Sat, 06 Feb 2016 20:41:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Kenner is a leading distributor of wire, cable, and structured wiring systems. We sell every wire and cable type manufactured, plus a full line of structured cabling products. With just a phone call, you can have any quantity, and any type of wire, cable, and accessories delivered to you on your time schedule.</p>]]></description>
-            <link>undefined481ae21a-8621-427b-82c4-43b3c372e09e/index.html</link>
+            <link>https://thegrid.ai/kenner-wire-and-cable/481ae21a-8621-427b-82c4-43b3c372e09e/index.html</link>
             <guid isPermaLink="false">481ae21a-8621-427b-82c4-43b3c372e09e</guid>
             <pubDate>Sat, 06 Feb 2016 20:41:29 GMT</pubDate>
         </item>
